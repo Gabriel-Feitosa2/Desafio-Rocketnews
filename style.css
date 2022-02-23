@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Spartan:wght@100&family=Work+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Spartan:wght@100&family=Work+Sans:ital,wght@1,200&display=swap');
+body {background-color: #121214
+    ;
+}
+#corpo {
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url("read_news.jpg");
+    background-size: 855px 795px;
+    background-repeat: no-repeat;
+    background-position: 673px 0px;
+}
+#introducao {
+    font-family: 'Work Sans', sans-serif;
+    color: #08C05E;
+    font-size: 24px;
+}
+#texto {
+    color: white;
+    font-family: 'Spartan', sans-serif;
+}
+#formulario{
+    display: flex;
+    color: white;
+}
+#email {
+    width: 798px;
+    padding-bottom: 27px;
+}
+#butao {
+    border-style: hidden;
+    background-color: purple;
+}
+
+#deixe {
+    color: #8257E5
+    ;
+}
+#seta {
+    position: absolute;
+    left: 195px;
+    top: 551px;
+}
+
+#codar {
+    position: fixed;
+    left: 695px;
+    top: 0px;
+}
+
